@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sevo</string>
+    <string-array name="items">
+        <item>search result one</item>
+        <item>search result two</item>
+        <item>Search result three</item>
+        <item>Search result four</item>
+        <item>Search result five</item>
+        <item>Search result six</item>
+        <item>Search Result 7</item>
+
+
+    </string-array>
+    <string-array name="questions">
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+        <item>Unanswered question</item>
+    </string-array>
+
+
+</resources>
